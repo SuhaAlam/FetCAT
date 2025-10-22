@@ -126,7 +126,3 @@ scheduler = torch.optim.lr_scheduler.StepLR(optimizer, step_size=5)
 
 For questions and contributions, please contact:
 - Your Name: [suha@bup.edu.bd]
-
-- Multi-modal data fusion (MRI + clinical data)
-- Self-supervised pretraining on unlabeled fetal MRI data
-- Real-time inference optimization for clinical deployment
