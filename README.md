@@ -1,4 +1,4 @@
-# Fetal MRI Plane Classification using Hybrid Swin Transformer-CNN Architecture
+# FetCAT: Cross-Attention Fusion of Transformer-CNN Architecture for Fetal Brain Plane Classification with Explainability
 
 ## Overview
 This repository contains a deep learning framework for classifying fetal MRI planes using a novel hybrid architecture that combines Swin Transformer with a custom AdaptiveMedCNN. The model leverages cross-attention mechanisms for effective feature fusion and is evaluated using k-fold cross-validation.
